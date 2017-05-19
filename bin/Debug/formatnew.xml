@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<formatlist>
+	<format>
+		<formatName>WHC format</formatName>
+		<delCol>ID</delCol>
+		<delCol>CDRID</delCol>
+		<delCol>TGIN</delCol>
+		<delCol>IPIn</delCol>
+		<delCol>TGOUT</delCol>
+		<delCol>IPOut</delCol>
+		<delCol>CDRDate</delCol>
+		<delCol>SetupTime</delCol>
+		<delCol>DisconnectTime</delCol>
+		<delCol>CauseValue</delCol>	
+		<delCol>Country</delCol>		
+		<delCol>City</delCol>	
+		<delCol>Remarks</delCol>
+		<delColCount>13</delColCount>
+		<ImportantColumn>2</ImportantColumn>
+		<ImportantColumn>3</ImportantColumn>
+		<ImportantColumn>10</ImportantColumn>
+		<ImportantColumn>12</ImportantColumn>
+	</format>
+	<format>
+		<formatName>ashan format</formatName>
+		<delCol>CalledIP</delCol>
+		<delColCount>1</delColCount>
+		<modifyPerfixCol action="del" perfix="70743">Callout calledNum</modifyPerfixCol>		
+		<ImportantColumn>3</ImportantColumn>
+		<ImportantColumn>4</ImportantColumn>
+		<ImportantColumn>0</ImportantColumn>
+		<ImportantColumn>1</ImportantColumn>
+	</format>	
+	<format>
+		<formatName existCombineCol="1">Umobile format</formatName>
+		<delCol>billing_operator</delCol>
+		<delColCount>1</delColCount>		
+		<hideCol>event_start_date</hideCol>
+		<hideCol>event_start_time</hideCol>
+		<afCombineName dateType="DateTime" format="dd/MM/yyyy HH:mm:ss">
+			<name>ConnectdateTimeAFcombine</name>
+			<combineDate>event_start_date</combineDate>
+			<combineTime>event_start_time</combineTime>
+		</afCombineName>
+		<modifyPerfixCol action="add" perfix="60">bnum</modifyPerfixCol>
+		<srcNum>anum</srcNum>
+		<distNum>bnum</distNum>
+		<connectTime>ConnectdateTimeAFcombine</connectTime>
+		<duration>event_duration</duration>
+		<ImportantColumn>2</ImportantColumn>
+		<ImportantColumn>3</ImportantColumn>
+		<ImportantColumn>4</ImportantColumn>
+		<ImportantColumn>1</ImportantColumn>
+	</format>
+</formatlist>

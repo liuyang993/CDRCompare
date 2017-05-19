@@ -1,0 +1,132 @@
+D:\code\c#_exercise\CDRcompare\bin\Debug\CDRcompare.exe
+D:\code\c#_exercise\CDRcompare\bin\Debug\CDRcompare.pdb
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\CDRcompare.exe
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\CDRcompare.pdb
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\CDRcompare.exe.licenses
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\CDRcompare.FrmCompare.resources
+D:\code\c#_exercise\CDRcompare\obj\x86\Debug\CDRcompare.FrmAddOrDeletePerfix.resources
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\CDRcompare.exe
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\CDRcompare.pdb
+F:\devTools\myCodeBak\CDRcompare\bin\Debug\CDRcompare.exe
+F:\devTools\myCodeBak\CDRcompare\bin\Debug\CDRcompare.pdb
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\CDRcompare.FrmAddOrDeletePerfix.resources
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\CDRcompare.FrmCompare.resources
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\devTools\myCodeBak\CDRcompare\obj\x86\Debug\CDRcompare.exe.licenses
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\CDRcompare.exe
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\CDRcompare.pdb
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\bin\Debug\CDRcompare.exe
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\bin\Debug\CDRcompare.pdb
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\CDRcompare.FrmAddOrDeletePerfix.resources
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\CDRcompare.FrmCompare.resources
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\devTools\myCodeBak\CDRcomparemyself\CDRcompare\obj\x86\Debug\CDRcompare.exe.licenses
+D:\CDRcompare\obj\x86\Debug\CDRcompare.exe
+D:\CDRcompare\obj\x86\Debug\CDRcompare.pdb
+D:\CDRcompare\bin\Debug\CDRcompare.exe
+D:\CDRcompare\bin\Debug\CDRcompare.pdb
+D:\CDRcompare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CDRcompare\obj\x86\Debug\CDRcompare.FrmAddOrDeletePerfix.resources
+D:\CDRcompare\obj\x86\Debug\CDRcompare.FrmCompare.resources
+D:\CDRcompare\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+D:\CDRcompare\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CDRcompare\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CDRcompare\obj\x86\Debug\CDRcompare.exe.licenses
+K:\CDRcompare\obj\x86\Debug\CDRcompare.exe
+K:\CDRcompare\obj\x86\Debug\CDRcompare.pdb
+K:\CDRcompare\bin\Debug\CDRcompare.exe
+K:\CDRcompare\bin\Debug\CDRcompare.pdb
+K:\CDRcompare\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\CDRcompare\obj\x86\Debug\CDRcompare.FrmAddOrDeletePerfix.resources
+K:\CDRcompare\obj\x86\Debug\CDRcompare.FrmCompare.resources
+K:\CDRcompare\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+K:\CDRcompare\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\CDRcompare\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\CDRcompare\obj\x86\Debug\CDRcompare.exe.licenses
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\CDRcompare.exe
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\CDRcompare.pdb
+D:\code\CDRCompare\60wanjilu\CDRcompare\bin\Debug\CDRcompare.exe
+D:\code\CDRCompare\60wanjilu\CDRcompare\bin\Debug\CDRcompare.pdb
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\CDRcompare.exe.licenses
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\CDRcompare.FrmFormattedCompare.resources
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Debug\CDRcompare.FrmMain.resources
+D:\code\CDRCompare\60wanjilu\CDRcompare\bin\Debug\CDRcompare.exe.config
+F:\日志\最新程序存档\CDRcompare\20130509_format_compare\bin\Debug\CDRcompare.exe.config
+F:\日志\最新程序存档\CDRcompare\20130509_format_compare\obj\x86\Debug\CDRcompare.exe
+F:\日志\最新程序存档\CDRcompare\20130509_format_compare\obj\x86\Debug\CDRcompare.pdb
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\bin\Debug\CDRcompare.exe.config
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.exe
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.pdb
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\bin\Debug\CDRcompare.exe
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\bin\Debug\CDRcompare.pdb
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.FrmFormattedCompare.resources
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.FrmMain.resources
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.exe.licenses
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.csproj.GenerateResource.Cache
+F:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.csprojResolveAssemblyReference.cache
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\bin\Debug\CDRcompare.exe.config
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.exe
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.pdb
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\bin\Debug\CDRcompare.exe
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\bin\Debug\CDRcompare.pdb
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.csprojResolveAssemblyReference.cache
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.FrmFormattedCompare.resources
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.FrmMain.resources
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.csproj.GenerateResource.Cache
+D:\日志\最新程序存档\CDRcompare - 副本\20130509_format_compare\obj\x86\Debug\CDRcompare.exe.licenses
+D:\日志\最新程序存档\cdrCompare最新\bin\Debug\CDRcompare.exe.config
+D:\日志\最新程序存档\cdrCompare最新\obj\x86\Debug\CDRcompare.exe
+D:\日志\最新程序存档\cdrCompare最新\obj\x86\Debug\CDRcompare.pdb
+D:\日志\最新程序存档\cdrCompare最新\bin\Debug\CDRcompare.exe
+D:\日志\最新程序存档\cdrCompare最新\bin\Debug\CDRcompare.pdb
+D:\日志\最新程序存档\cdrCompare最新\obj\x86\Debug\CDRcompare.csprojResolveAssemblyReference.cache
+D:\日志\最新程序存档\cdrCompare最新\obj\x86\Debug\CDRcompare.FrmFormattedCompare.resources
+D:\日志\最新程序存档\cdrCompare最新\obj\x86\Debug\CDRcompare.FrmMain.resources
+D:\日志\最新程序存档\cdrCompare最新\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+D:\日志\最新程序存档\cdrCompare最新\obj\x86\Debug\CDRcompare.csproj.GenerateResource.Cache
+D:\日志\最新程序存档\cdrCompare最新\obj\x86\Debug\CDRcompare.exe.licenses
+D:\日志\最新程序存档\cdrCompare最新 - 副本\bin\Debug\CDRcompare.exe.config
+D:\日志\最新程序存档\cdrCompare最新 - 副本\obj\x86\Debug\CDRcompare.exe
+D:\日志\最新程序存档\cdrCompare最新 - 副本\obj\x86\Debug\CDRcompare.pdb
+D:\日志\最新程序存档\cdrCompare最新 - 副本\bin\Debug\CDRcompare.exe
+D:\日志\最新程序存档\cdrCompare最新 - 副本\bin\Debug\CDRcompare.pdb
+D:\日志\最新程序存档\cdrCompare最新 - 副本\obj\x86\Debug\CDRcompare.csprojResolveAssemblyReference.cache
+D:\日志\最新程序存档\cdrCompare最新 - 副本\obj\x86\Debug\CDRcompare.FrmFormattedCompare.resources
+D:\日志\最新程序存档\cdrCompare最新 - 副本\obj\x86\Debug\CDRcompare.FrmMain.resources
+D:\日志\最新程序存档\cdrCompare最新 - 副本\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+D:\日志\最新程序存档\cdrCompare最新 - 副本\obj\x86\Debug\CDRcompare.csproj.GenerateResource.Cache
+D:\日志\最新程序存档\cdrCompare最新 - 副本\obj\x86\Debug\CDRcompare.exe.licenses
+D:\日志\最新程序存档\cdrCompare最新1226\bin\Debug\CDRcompare.exe.config
+D:\日志\最新程序存档\cdrCompare最新1226\obj\x86\Debug\CDRcompare.exe
+D:\日志\最新程序存档\cdrCompare最新1226\obj\x86\Debug\CDRcompare.pdb
+D:\日志\最新程序存档\cdrCompare最新1226\bin\Debug\CDRcompare.exe
+D:\日志\最新程序存档\cdrCompare最新1226\bin\Debug\CDRcompare.pdb
+D:\日志\最新程序存档\cdrCompare最新1226\obj\x86\Debug\CDRcompare.FrmFormattedCompare.resources
+D:\日志\最新程序存档\cdrCompare最新1226\obj\x86\Debug\CDRcompare.FrmMain.resources
+D:\日志\最新程序存档\cdrCompare最新1226\obj\x86\Debug\CDRcompare.Properties.Resources.resources
+D:\日志\最新程序存档\cdrCompare最新1226\obj\x86\Debug\CDRcompare.csproj.GenerateResource.Cache
+D:\日志\最新程序存档\cdrCompare最新1226\obj\x86\Debug\CDRcompare.exe.licenses
+D:\日志\最新程序存档\cdrCompare最新1226\obj\x86\Debug\CDRcompare.csprojResolveAssemblyReference.cache
+D:\日志\最新程序存档\cdrCompare最新1226\bin\Debug\Infragistics4.Documents.Core.v13.1.dll
+D:\日志\最新程序存档\cdrCompare最新1226\bin\Debug\Infragistics4.Documents.Excel.v13.1.dll
+D:\日志\最新程序存档\cdrCompare最新1226\bin\Debug\Infragistics4.Shared.v13.1.dll
+D:\日志\最新程序存档\cdrCompare最新1226\bin\Debug\Infragistics4.Win.v13.1.dll
+D:\code\CDRCompare\bin\Debug\CDRcompare.exe.config
+D:\code\CDRCompare\obj\x86\Debug\CDRcompare.exe
+D:\code\CDRCompare\obj\x86\Debug\CDRcompare.pdb

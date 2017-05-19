@@ -1,0 +1,12 @@
+D:\code\CDRCompare\60wanjilu\CDRcompare\bin\Release\CDRcompare.exe
+D:\code\CDRCompare\60wanjilu\CDRcompare\bin\Release\CDRcompare.pdb
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\ResolveAssemblyReference.cache
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\CDRcompare.FrmFormattedCompare.resources
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\CDRcompare.FrmMain.resources
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\CDRcompare.Properties.Resources.resources
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\GenerateResource.read.1.tlog
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\GenerateResource.write.1.tlog
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\CDRcompare.exe.licenses
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\CDRcompare.exe
+D:\code\CDRCompare\60wanjilu\CDRcompare\obj\x86\Release\CDRcompare.pdb
+D:\code\CDRCompare\60wanjilu\CDRcompare\bin\Release\CDRcompare.exe.config
